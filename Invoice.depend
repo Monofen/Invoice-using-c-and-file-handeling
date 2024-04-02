@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704819943 source:d:\invoice\invoice\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+	<iomanip>
+
